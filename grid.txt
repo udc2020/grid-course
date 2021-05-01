@@ -1,0 +1,59 @@
+display:grid
+1.grid-tamplet-colums:
+    1.px
+    2.%
+    3.em/rem
+    4.fr
+    5.auto
+    6.repeat(times,size)
+2.grid-tamplet-rows:
+    1.px
+    2.%
+    3.em/rem
+    4.fr
+    5.auto
+    6.repeat(times,size)
+3.grid-auto-row:px/%/em...etc
+4.justify-items:
+    1.center
+    2.start
+    3.end
+    4.stratch
+5.align-items:
+    1.center 
+    2.start
+    3.end
+    4.stratch
+4.justify-content:
+    1.center
+    2.start
+    3.end
+    4.stratch
+    5.space-between
+    6.space-around
+    7.space-evenly
+5.align-content:
+    1.center 
+    2.start
+    3.end
+    4.stratch
+    5.space-between
+    6.space-around
+    7.space-evenly
+
+6.gap:
+    1.grid-row-gap:px/rem...
+    2.grid-colum-gap:px/rem....
+    3.grid-gap:px/rem..
+
+7.start-end:
+    1.grid-col/row-start/end
+
+8.grid- row/col:
+    1.start - end
+
+9.grid- area:col row
+
+10.grid-tamplet-areas:
+    1.make area for element
+
